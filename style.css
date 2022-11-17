@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(234, 227, 241);
+    width: 100%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    /**{box-sizing:border-box;*/
+}
+.navbar{
+    background-color: rgb(8, 8, 8);
+    overflow: hidden;
+    padding-left: 0%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 100%;
+    margin: 0%;
+    position: fixed;
+}
+.navbar a{
+    padding: 14px 16px;
+    color: rgb(245, 241, 241);
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navbar a:hover{
+    background-color: rgb(113, 98, 113)
+}
+#Address{
+text-align: center;
+padding-top: 5%;
+}
+#About-me{
+    width: 80%;
+    height: auto;
+    background-color:rgb(243,  235, 249);
+    padding: 15px 10px;
+    line-height: 2.5rem;
+    margin: 0 10%;
+    text-align: center;
+    padding-top: 10%;
+}
+.image{
+    width: 30%;
+    float:left;
+    padding-top: 7%;
+    padding-left: 2%;
+}
+
+.about_right{
+    width: 50%;
+    display: inline-block;
+    line-height: 30px;
+    padding-left: 2%;
+}
+#Skills{
+    width: 80%;
+    height: auto;
+    background-color:rgb(235, 228, 241);
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+}
+#Biodata{
+    width: 80%;
+    height: auto;
+    background-color:rgb(242, 236, 247);
+    margin: 0 10%;
+    text-align: left;
+    padding: 15px 10px;
+}
+
+.Qualification{
+    width: 80%;
+    height: auto;
+    background-color:rgb(249, 242, 253);
+    margin: 0 10%;
+    text-align: left;
+    padding: 15px 10px;
+}
+.Qaulities{
+    width: 80%;
+    height: auto;
+  
+    margin: 0 10%;background-color:rgb(243,  235, 249);
+    text-align: left;
+    padding: 15px 10px;
+}
+
+.Hobbies{
+    width: 80%;
+    height: auto;
+    background-color:rgb(246, 240, 251);
+    margin: 0 10%;
+    text-align: left;
+    padding: 15px 10px;
+}
+.Refeeress{
+    width: 80%;
+    height: auto;background-color:rgb(233, 228, 238);
+ 
+    margin: 0 10%;
+    text-align: left;
+    padding: 15px 10px;
+}
+#Contact{
+    width: 80%;
+    height: auto;
+    background-color:rgb(241, 233, 249);
+    margin: 0 10%;
+    text-align: left;
+    padding: 15px 10px;
+    line-height: 23px;
+}
